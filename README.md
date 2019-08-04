@@ -6,4 +6,4 @@ System Requirements
 ===
 1.Android Studio-above 3.0
 
-2.Emulator with API atleast 23
+2.Emulator with API atleast 23(in case you want to run in the emulator)
